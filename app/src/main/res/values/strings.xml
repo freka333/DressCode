@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DressCode</string>
+    <string name="dateTime">Date</string>
+    <string name="humidity">Humidity</string>
+    <string name="humidity_value">Value</string>
+    <string name="city">City</string>
+    <string name="enter_city_name">Search city</string>
+    <string name="feels_like">0°C</string>
+    <string name="wind">Wind Speed</string>
+    <string name="windValue">Value</string>
+    <string name="weather">Weather</string>
+    <string name="current_weather_feels_like">Current weather feels like:</string>
+    <string name="forecast">Forecast ➔</string>
+</resources>
